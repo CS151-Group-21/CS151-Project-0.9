@@ -136,13 +136,13 @@ src/
     │       │   └── StudentsListPage.java
     │       ├── Main.java
     │       └── module-info.java
-    ├── resources/
-    │   └── img/
-    │       ├── bg.png
-    │       ├── inputBg.png
-    │       └── sectionBg.png
-    └── style/
-        └── homePage.css
+    └─── resources/
+        ├─── img/
+        │   ├── bg.png
+        │   ├── inputBg.png
+        │   └── sectionBg.png
+        └──── style/
+            └── homePage.css
 ```  
 ---
 ## Functional Spec :
