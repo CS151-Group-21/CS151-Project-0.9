@@ -106,43 +106,43 @@ Contribution:
 src/
 └── main/
     ├── java/
-    │   └── cs151/application/
-    │       ├── controller/
-    │       │   ├── EditPageController.java
-    │       │   ├── DefineLanguagePageController.java
-    │       │   ├── DefineStudentPageController.java
-    │       │   ├── HomePageController.java
-    │       │   ├── SearchPageController.java
-    │       │   ├── StudentInfoPageController.java
-    │       │   ├── ReportPageController.java
-    │       │   └── StudentsListPageController.java
-    │       ├── model/
-    │       │   └── Student.java
-    │       ├── services/
-    │       │   ├── ControllerUtility.java
-    │       │   ├── DataAccessor.java
-    │       │   ├── DatabaseUtility.java
-    │       │   ├── Logger.java
-    │       │   └── ViewUtility.java
-    │       ├── view/
-    │       │   ├── EditStudentPage.java
-    │       │   ├── DefineLanguagePage.java
-    │       │   ├── DefineStudentPage.java
-    │       │   ├── HomePage.java
-    │       │   ├── ListDisplay.java
-    │       │   ├── SearchStudentPage.java
-    │       │   ├── StudentInfoPage.java
-    │       │   ├── ReportPage.java
-    │       │   └── StudentsListPage.java
-    │       ├── Main.java
-    │       └── module-info.java
+    │   ├── cs151/application/
+    │   │   ├── controller/
+    │   │   │   ├── EditPageController.java
+    │   │   │   ├── DefineLanguagePageController.java
+    │   │   │   ├── DefineStudentPageController.java
+    │   │   │   ├── HomePageController.java
+    │   │   │   ├── SearchPageController.java
+    │   │   │   ├── StudentInfoPageController.java
+    │   │   │   ├── ReportPageController.java
+    │   │   │   └── StudentsListPageController.java
+    │   │   ├── model/
+    │   │   │   └── Student.java
+    │   │   ├── services/
+    │   │   │   ├── ControllerUtility.java
+    │   │   │   ├── DataAccessor.java
+    │   │   │   ├── DatabaseUtility.java
+    │   │   │   ├── Logger.java
+    │   │   │   └── ViewUtility.java
+    │   │   ├── view/
+    │   │   │   ├── EditStudentPage.java
+    │   │   │   ├── DefineLanguagePage.java
+    │   │   │   ├── DefineStudentPage.java
+    │   │   │   ├── HomePage.java
+    │   │   │   ├── ListDisplay.java
+    │   │   │   ├── SearchStudentPage.java
+    │   │   │   ├── StudentInfoPage.java
+    │   │   │   ├── ReportPage.java
+    │   │   │   └── StudentsListPage.java
+    │   │   └── Main.java
+    │   └── module-info.java
     └─── resources/
-        ├─── img/
-        │   ├── bg.png
-        │   ├── inputBg.png
-        │   └── sectionBg.png
-        └──── style/
-            └── homePage.css
+            ├── img/
+            │   ├── bg.png
+            │   ├── inputBg.png
+            │   └── sectionBg.png
+            └── style/
+                └── homePage.css
 ```  
 ---
 ## Functional Spec :
