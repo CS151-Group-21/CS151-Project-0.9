@@ -1,36 +1,91 @@
 # CS151 Term Project - Version 0.9
 ## **Students' Knowledgebase for Faculties**
 
+## Team Info
+- **Team Number:** 21  
+  - Julian Christian Simmons 
+  - Ryan Monazzami 
+  - Daniel Khant 
+  - Jesse Yang
+
 ---
 
-# Project Description
+## Project Description
 This project is a desktop application designed for faculty members to record and manage students’ information such as programming skills, academic status, and evaluation notes.
 
-## Version List:
-### Version (**v0.8**):
-It focuses on implementing the **"Report"** page with **"Black List"**/**"White List"** feature.
+## Version (**v0.9**)  
+It focuses on implementing the **"Report"** page described in the project problem statement (Section 2.2).
 
-### Version (**v0.8**):  
-It focuses on implementing the **"Edit student"** page.
+Contribution:
+  - Julian Christian Simmons (controller of report page)  
+  - Ryan Monazzami (data update behavoirs)  
+  - Daniel Khant (UI/UX design)
+  - Jesse Yang (report page/blackList showing page)
 
-### Version (**v0.7**):  
-It focuses on implementing the **"Edit student"** page.
+## Version (**v0.8**)  
+It focuses on implementing the **"Edit student"** page described in the project problem statement (Section 2.2).
 
-### Version (**v0.6**):
-It focuses on implementing the **"Search for keywords"** page.
+Contribution:
+  - Julian Christian Simmons (controller of comment page)  
+  - Ryan Monazzami (readMe files and UML graph)  
+  - Daniel Khant (UI/UX design)
+  - Jesse Yang (adding/Deleting comment behaviors)
 
-### Version (**v0.5**):
-It focuses on implementing the **"Define Student "** page.
+## Version (**v0.7**)  
+It focuses on implementing the **"Edit student"** page described in the project problem statement (Section 2.2).
 
-### Version (**v0.4**):
+Contribution:
+  - Julian Christian Simmons (controller of edit page)  
+  - Ryan Monazzami (data update behavoirs)  
+  - Daniel Khant (UI/UX design)
+  - Jesse Yang (edit page)
+
+## Version (**v0.6**)
+It focuses on implementing the **"Search for keywords"** page described in the project problem statement (Section 2.2).
+
+Contribution:
+  - Julian Christian Simmons (UI design, search bar design)  
+  - Ryan Monazzami (searching behaviors)  
+  - Daniel Khant (initialization of samples)
+  - Jesse Yang (rebuild and data accessor implement)
+
+## Version (**v0.5**)
+It focuses on implementing the **"Define Student "** page described in the project problem statement (Section 2.2).
+
+Contribution:
+  - Julian Christian Simmons (UI design, sorting student method)  
+  - Ryan Monazzami (addCommentPage and behaviors)  
+  - Daniel Khant (Code documentation, testing, cleanup)
+  - Jesse Yang (defineStudentPage)
+
+## Version (**v0.4**)
 It focuses on implementing **"All Programming Languages"** page as well as permanently storing the programming languages info entered.
-   
-### Version (**v0.3**):
-It focuses on implementing the **"Define Programming Languages"** page.
 
-### Version (**v0.2**):
-It focuses on implementing the **"Define Programming Languages"** page.
- 
+Contribution:
+  - Julian Christian Simmons (showProgrammingLangauges and bugs fixing)  
+  - Ryan Monazzami (adding behaviors for student class)  
+  - Daniel Khant (file IO system design)
+  - Jesse Yang (data storing behaviors implement)
+    
+## Version (**v0.3**)
+It focuses on implementing the **"Define Programming Languages"** page described in the project problem statement (Section 2.1.1, item 2).
+
+Contribution:
+  - Julian Christian Simmons (refine defineLanguagePage and bugs fixing)  
+  - Ryan Monazzami (adding behaviors for student class)  
+  - Daniel Khant (file IO system design)
+  - Jesse Yang (data storing behaviors implement)
+
+## Version (**v0.2**)
+It focuses on implementing the **"Define Programming Languages"** page described in the project problem statement (Section 2.1.1, item 1).
+
+Contribution:
+  - Julian Christian Simmons (defineLanguagePage)  
+  - Ryan Monazzami (studentListPage)  
+  - Daniel Khant (StudentList dataStucture)
+  - Jesse Yang (homepage)
+
+---
 ---
 ## Technical Spec: 
 
